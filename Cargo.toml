@@ -1,0 +1,12 @@
+[package]
+name = "rust-math-lib"
+version = "0.3.7"
+edition = "2021"
+description = "Math library written in Rust"
+documentation = "https://github.com/MuhammedAky/rust-math-lib"
+readme = "README.md"
+repository = "https://github.com/MuhammedAky/rust-math-lib"
+license = "MIT"
+keywords = ["math", "list", "trigonometry"]
+categories = ["algorithms", "no-std"]
+[dependencies]
